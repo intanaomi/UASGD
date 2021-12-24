@@ -1,4 +1,3 @@
-
 #mengimport yang di butuhkan
 from direct.showbase.ShowBase import ShowBase
 from panda3d.core import NodePath, TextNode
@@ -168,4 +167,3 @@ class MusicBox(DirectObject):
 # Runnnnn
 mb = MusicBox()
 base.run()
-
